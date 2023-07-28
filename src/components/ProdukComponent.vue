@@ -88,6 +88,28 @@
           </a>
         </center>
       </div>
+
+      <div>
+        <img
+          class="h-auto mt-12 max-w-full rounded-lg"
+          src="../assets/umkm.png"
+          alt=""
+        />
+        <br />
+        <center>
+          <b>UMKM</b>
+          <br />
+          <br />
+          &nbsp;
+          <a
+            href="https://umkm.digma.id/"
+            target="_blank"
+            class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-5 py-2.5 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-900"
+          >
+            Cek Website
+          </a>
+        </center>
+      </div>
     </div>
   </div>
 
