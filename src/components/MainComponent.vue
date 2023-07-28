@@ -35,7 +35,7 @@
         </center>
         <p style="font-size: 20px;">
           Halo Nama Saya Devin , Saya Berusia 17 Tahun , Saya Lahir Di Bandung
-          Pada Tanggal 02 Desember 2005 Berkerja Di Perusahaan Icommits , Yuk
+          Pada Tanggal 02 Desember 2005 Berkerja Di SOFTWARE HOST Icommits , Yuk
           cari Tahu Tentang Devin :) !
         </p>
       </figure>
