@@ -11,10 +11,12 @@ import { Input } from 'flowbite-vue'
     <div class="grid mb-8 border-0 md:mb-12 md:grid-cols-2">
       <figure class="flex flex-col">
         <br />
-        <img
-          src="https://img.freepik.com/free-vector/concept-landing-page-new-message_52683-25038.jpg?w=740&t=st=1690517365~exp=1690517965~hmac=4abcb7abe42ed3c7c4b262352bf70b8d857a9a1e0334fccbb1fc85dea0332f9f"
-          width="500"
-        />
+        <center>
+          <img
+            src="https://img.freepik.com/free-vector/concept-landing-page-new-message_52683-25038.jpg?w=740&t=st=1690517365~exp=1690517965~hmac=4abcb7abe42ed3c7c4b262352bf70b8d857a9a1e0334fccbb1fc85dea0332f9f"
+            width="500"
+          />
+        </center>
       </figure>
       <figure
         class="flex flex-col items-center justify-center text-center bg-white rounded-0"
