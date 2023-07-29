@@ -14,7 +14,7 @@
             font-family: 'sans-serif', Calibri, 'Trebuchet MS', sans-serif;
           "
         >
-          Tentang Kami
+          Tentang Saya
         </b>
         <center>
           <div style="width: 50%; background: grey; height: 5px;"></div>
@@ -78,9 +78,9 @@
       Lumen
     </li>
   
-</ul>
+</ul></p>
 
-        </p>
+
       </figure>
       <figure
         class="flex flex-col items-center justify-center text-center bg-white rounded-0"
